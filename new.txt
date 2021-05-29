@@ -1,2 +1,3 @@
 this is my new file in git
 I am changing it to see changes in gitignore file
+I am changing it to see changes via git diff command
